@@ -26,13 +26,13 @@
 
     "autoload": {
         "psr-4": {
-            "Asgard83\\SimpleMaker\\": "src"
+            "MakeNew\\SimpleMaker\\": "src"
 
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Asgard83\\Simple\\": "tests"
+            "MakeNew\\Simple\\": "tests"
         }
     },
     "scripts": {
